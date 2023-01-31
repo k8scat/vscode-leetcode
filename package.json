@@ -1,10 +1,10 @@
 {
-    "name": "vscode-leetcode",
+    "name": "vscode-leetcode-x",
     "displayName": "LeetCode",
     "description": "Solve LeetCode problems in VS Code",
-    "version": "0.18.1",
+    "version": "0.18.3",
     "author": "Sheng Chen",
-    "publisher": "LeetCode",
+    "publisher": "K8sCat",
     "license": "MIT",
     "icon": "resources/LeetCode.png",
     "engines": {
@@ -12,9 +12,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/LeetCode-OpenSource/vscode-leetcode"
+        "url": "https://github.com/k8scat/vscode-leetcode"
     },
-    "homepage": "https://github.com/LeetCode-OpenSource/vscode-leetcode/blob/master/README.md",
+    "homepage": "https://github.com/k8scat/vscode-leetcode/blob/master/README.md",
     "categories": [
         "Other",
         "Snippets"
@@ -395,7 +395,7 @@
                     },
                     "leetcode.workspaceFolder": {
                         "type": "string",
-                        "scope": "application",
+                        "scope": "window",
                         "description": "The path of the workspace folder to store the problem files.",
                         "default": ""
                     },
