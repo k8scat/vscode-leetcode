@@ -321,7 +321,7 @@
                             "swift",
                             "typescript"
                         ],
-                        "scope": "application",
+                        "scope": "window",
                         "description": "Default language for solving the problems."
                     },
                     "leetcode.showDescription": {
