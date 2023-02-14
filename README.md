@@ -1,5 +1,12 @@
 # LeetCode
 
+## Forked from https://github.com/LeetCode-OpenSource/vscode-leetcode
+
+### Changed the settings scope in VS Code
+
+- Set `leetcode.workspaceFolder` scope to `window`
+- Set `leetcode.defaultLanguage` scope to `window`
+
 > Solve LeetCode problems in VS Code
 
 <p align="center">
